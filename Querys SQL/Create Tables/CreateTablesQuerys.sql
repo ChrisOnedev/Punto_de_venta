@@ -9,7 +9,6 @@ USE [PuntoVenta]
 --CREATE SCHEMA [Supplies]
 
 
-
 --EMPLEADO
 CREATE TABLE [PuntoVenta].[Person].[EMPLEADO](
 	ID_EMPLEADO varchar(50) NOT NULL
