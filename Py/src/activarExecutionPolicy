@@ -1,0 +1,9 @@
+
+Ver el Estado:
+1. Get-ExecutionPolicy
+
+Activarlo:
+2. Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+
+Activar el env
+3.  .\env\Scripts\activate
